@@ -1,0 +1,5 @@
+consumer_key = 'LcT9KdScJ0WPrAerRja7tNTgm'
+consumer_secret = 'jVvnUktg0lM2W6RSBKRV2uLei7xwQxKdqW0MiChs1genyl2HjH'
+access_token = '743505466316054532-AW6z19sjMighIksDF1Z99bZXNae0hmL'
+access_secret = 'eSQBl7VhwRs2RJN2PA9KYZ7a387b2C0lHrCWzCMb4Fzdr'
+db_uri = 'mongodb://twitter_user:ERIC%40123@138.85.20.65:27017/twitter'
